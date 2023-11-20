@@ -11,3 +11,7 @@ const getTime = () => {
   };
 };
 
+setInterval(() => {
+  
+}, 1000);
+
